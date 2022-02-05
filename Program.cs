@@ -44,7 +44,6 @@ namespace TuesdayExam
             List<List<string>> paths = new List<List<string>>();
             paths.Add(new List<string>() {"MSC", "Library"});
             paths.Add(new List<string>() { "Library","HUB"});
-            paths.Add(new List<string>() { "Library","HUB"});
             paths.Add(new List<string>() { "HUB","Muma College Of Business"});
 
             string destination = FinalDestination(paths);
