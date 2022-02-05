@@ -1,0 +1,15 @@
+/Users/nagababuveganti/Projects/TuesdayExam/TuesdayExam/bin/Debug/net5.0/TuesdayExam.deps.json
+/Users/nagababuveganti/Projects/TuesdayExam/TuesdayExam/bin/Debug/net5.0/TuesdayExam.runtimeconfig.json
+/Users/nagababuveganti/Projects/TuesdayExam/TuesdayExam/bin/Debug/net5.0/TuesdayExam.runtimeconfig.dev.json
+/Users/nagababuveganti/Projects/TuesdayExam/TuesdayExam/bin/Debug/net5.0/TuesdayExam.dll
+/Users/nagababuveganti/Projects/TuesdayExam/TuesdayExam/bin/Debug/net5.0/ref/TuesdayExam.dll
+/Users/nagababuveganti/Projects/TuesdayExam/TuesdayExam/bin/Debug/net5.0/TuesdayExam.pdb
+/Users/nagababuveganti/Projects/TuesdayExam/TuesdayExam/obj/Debug/net5.0/TuesdayExam.csproj.AssemblyReference.cache
+/Users/nagababuveganti/Projects/TuesdayExam/TuesdayExam/obj/Debug/net5.0/TuesdayExam.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nagababuveganti/Projects/TuesdayExam/TuesdayExam/obj/Debug/net5.0/TuesdayExam.AssemblyInfoInputs.cache
+/Users/nagababuveganti/Projects/TuesdayExam/TuesdayExam/obj/Debug/net5.0/TuesdayExam.AssemblyInfo.cs
+/Users/nagababuveganti/Projects/TuesdayExam/TuesdayExam/obj/Debug/net5.0/TuesdayExam.csproj.CoreCompileInputs.cache
+/Users/nagababuveganti/Projects/TuesdayExam/TuesdayExam/obj/Debug/net5.0/TuesdayExam.dll
+/Users/nagababuveganti/Projects/TuesdayExam/TuesdayExam/obj/Debug/net5.0/ref/TuesdayExam.dll
+/Users/nagababuveganti/Projects/TuesdayExam/TuesdayExam/obj/Debug/net5.0/TuesdayExam.pdb
+/Users/nagababuveganti/Projects/TuesdayExam/TuesdayExam/obj/Debug/net5.0/TuesdayExam.genruntimeconfig.cache
